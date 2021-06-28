@@ -1,0 +1,59 @@
+/* Sidebar */
+.nav-link:hover{
+	background-color: grey;
+}
+
+
+/* Dashboard */
+
+#home{
+    padding-top: 100px;
+    text-align: center;
+}
+  
+#home .container h1{
+    font-size: 25px;
+    margin:36px;
+    color: black;
+}
+#home .isi .shadow:hover{
+
+    transform: scale(1.06);
+    text-align: center;
+    
+}
+  
+#home .isi .container.atas{
+    background-color: white;
+    margin-top:-70px;
+    margin-bottom: -40px;
+    padding-top: -40px;
+    padding-bottom:20px;
+    
+}
+#home .home-link{
+    align-content: center;
+    margin: 0 auto;
+}
+
+/* Body */
+body {
+    background-color: #d5f0f3;
+}
+h1{
+    text-align: center
+}
+/* Footer */
+footer{
+    color: white;
+    margin-top:500px;
+}
+footer h3{
+    color: red;
+}
+footer a {
+    color: white;
+}
+footer a:hover {
+    color: rgb(11, 179, 75);
+}
